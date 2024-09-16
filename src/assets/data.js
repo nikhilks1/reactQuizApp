@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Which method is used to update the state in a React class component?",
+      option1: "setState()",
+      option2: "updateState()",
+      option3: "changeState()",
+      option4: "modifyState()",
+      ans: 1,
+    },
+    {
+      question: "What hook is used to manage state in functional components in React?",
+      option1: "useEffect()",
+      option2: "useContext()",
+      option3: "useReducer()",
+      option4: "useState()",
+      ans: 4,
+    },
+    {
+      question: "What is JSX in React?",
+      option1: " A syntax extension that allows writing HTML within JavaScript",
+      option2: "A method to style components",
+      option3: "A component lifecycle method",
+      option4: "A JavaScript utility function",
+      ans: 1,
+    },
+    {
+      question: "What is a common way to pass data from a parent component to a child component in React?",
+      option1: " State",
+      option2: "Context",
+      option3: "Props",
+      option4: "Hooks",
+      ans: 3,
+    },
+    {
+      question: "What React function is used to handle routing in single-page applications?",
+      option1: "useState",
+      option2: "useNavigate",
+      option3: "useRouter",
+      option4: "useRoute",
+      ans: 2,
+    },
+  ];
